@@ -49,5 +49,5 @@ pubspec.*
 README.md
 android/*
 ios/Flutter/
-ios/Runner/
+ios/Runner*
 
