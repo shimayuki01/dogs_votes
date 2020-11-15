@@ -47,7 +47,7 @@ app.*.map.json
 .metadata
 pubspec.*
 README.md
-android/*
+
 ios/Flutter/
 ios/Runner*
 
